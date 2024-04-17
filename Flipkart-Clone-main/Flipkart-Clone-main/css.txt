@@ -1,0 +1,283 @@
+
+    This CSS property ensures that padding and border are included in the element's total width and height calculations.
+    Sets the margin of the element to 0 pixels, removing any default margin.
+    Sets the padding of the element to 0 pixels, removing any default padding.
+    Defines the preferred font family for text content within the element, prioritizing 'Roboto' and falling back to a generic sans-serif font if 'Roboto' is unavailable.
+
+
+
+    Sets the width of the .navBar element to 100% of its parent container's width.
+    Sets the height of the .navBar element to 56 pixels.
+    Sets the background color of the .navBar to a shade of blue (#2874f0).
+    Sets the text color inside the .navBar to a light gray (#f0f0f0).
+    Configures the .navBar element as a flex container.
+    Centers the items along the cross-axis (vertically) within the flex container.
+    Distributes the space between the items evenly along the main axis (horizontally), with equal space around each item.
+
+
+
+    Sets the width of .logoSection to 80 pixels.
+    pecifies that .logoSection should be displayed as an inline element.
+    Sets the margins of .logoSection with values for top, right, bottom, and left sides respectively (2px top, 0px right, 2px bottom, and 170px left).
+
+
+
+    Sets the width of .flipkart-logo to 75 pixels.
+    Sets the height of .flipkart-logo to 20.11 pixels.
+    Sets the top margin of .flipkart-logo to 15 pixels.
+
+
+
+    Specifies the font family for .logo-text with a preference for 'Poppins' and a fallback to a generic sans-serif font.
+    Sets the font size of .logo-text to 11 pixels.
+    Renders the text in .logo-text in italic style.
+    Sets the width of .logo-text to 75 pixels.
+    Sets the height of .logo-text to 15.4 pixels.
+    Adds a bottom margin of 15 pixels to .logo-text.
+
+
+
+
+
+    Sets the text color of #plus to a shade of yellow (#ffe500).
+    Sets the font size of #plus to 11 pixels.
+
+
+
+    Sets the width of .searchBox to 340 pixels.
+    Specifies that .searchBox should use flexbox layout.
+    Adds a right margin of 10 pixels to .searchBox.
+
+
+
+    Sets the height of the input field to 36 pixels.
+    Sets the width of the input field to 564 pixels.
+    Applies a border radius of 5 pixels to round the corners of the input field.
+    Sets padding inside the input field, with 0 on top and bottom and 16 pixels on the left and right.
+    Overrides the previous border-radius to set specific radii for different corners.
+    Removes the border of the input field.
+    Removes the default outline style when the input field is focused.
+
+
+
+
+    Sets the height of the search logo container to 36 pixels.
+    Sets the width of the search logo container to 44 pixels.
+    Sets a border radius for the top right corner of the search logo container.
+    Sets a border radius for the bottom right corner of the search logo container.
+    Changes the cursor to a pointer when hovering over the search logo.
+    Sets the padding inside the search logo container.
+    Sets the background color of the search logo container to white.
+    Removes the border of the search logo container.
+    Removes the default outline style when the search logo container is focused.
+    Sets the text color of the search logo to a shade of blue (#2874f0).
+    Specifies that the search logo container should use flexbox layout.
+    Centers the items vertically inside the search logo container.
+    Centers the items horizontally inside the search logo container.
+
+
+
+    Sets a right margin of 10 pixels for the login box.
+
+
+
+    Sets the text color of the login button to a shade of blue (#2874f0).
+    Sets the background color of the login button to white.
+    Changes the cursor to a pointer when hovering over the login button.
+    Applies a border radius of 2 pixels to round the corners of the login button.
+    Sets the height of the login button to 32 pixels.
+    Sets the padding inside the login button (5 pixels top and bottom, 40 pixels left and right).
+    Sets a solid border with a light gray color (#dbdbdb) around the login button.
+
+
+
+    Sets the width of the become seller box to 155 pixels.
+    Sets a right margin of 10 pixels for the become seller box.
+    Specifies that the become seller box should use flexbox layout.
+    Centers the items vertically inside the become seller box.
+    Centers the items horizontally inside the become seller box.
+
+
+
+    Sets the width of the more box to 50 pixels.
+    Sets a right margin of 10 pixels for the more box.
+    Centers the items vertically inside the more box.
+    Centers the items horizontally inside the more box.
+
+
+
+    Sets the width of the cart box to 65 pixels.
+    Sets a right margin of 150 pixels for the cart box.
+    Centers the items vertically inside the cart box
+    Centers the items horizontally inside the cart box.
+
+
+
+    Specifies that the belowNavBar should use flexbox layout.
+    Sets the maximum width of the belowNavBar to 1280 pixels.
+    Sets the text color of the belowNavBar to a dark shade (#212121).
+    Distributes the items evenly along the main axis of the belowNavBar with equal space between them.
+    Centers the items vertically inside the belowNavBar.
+
+
+
+
+    Sets the width of each small card to 94 pixels.
+    Sets the height of each small card to 112 pixels.
+    Adds 10 pixels of padding inside each small card.
+    Sets the left and right margin of each small card to 20 pixels.
+
+
+
+    Sets the height of the card image inside each small card to 64 pixels.
+    Sets the width of the card image inside each small card to 64 pixels.
+
+
+
+
+    Sets the width of the card image inside each small card to 64 pixels.
+
+
+
+
+    Sets the background image of the hero section using the specified image URL.
+    Ensures that the background image covers the entire hero section.
+    Specifies that the hero section should use flexbox layout.
+    Centers the content horizontally inside the hero section.
+    Centers the content vertically inside the hero section.
+    Sets the maximum width of the hero section to 1680 pixels.
+    Sets the height of the hero section to 280 pixels.
+
+
+
+    Sets the maximum width of the item section to 1434 pixels.
+    Sets the height of the item section to 314 pixels.
+    Specifies that the item section should use flexbox layout.
+    Centers the items vertically within the item section.
+    Distributes the space evenly between items along the main axis (horizontally).
+
+
+
+    Sets the width of each item to 232 pixels.
+    Sets the height of each item to 314 pixels.
+    Specifies that each item should use flexbox layout.
+    Centers the content vertically within each item.
+    Centers the content horizontally within each item.
+    Arranges the content in a column layout within each item.
+
+
+
+    Sets the height of the item image to 200 pixels.
+
+
+
+    Sets the font size of the item description to 14 pixels.
+    Sets the font weight of the item description to 500 (semi-bold).
+    Adds a top margin of 15 pixels to the item description.
+    Centers the text horizontally within the item description.
+
+
+
+    Sets the text color of the "Buy Now" text to a shade of green (#388e3c).
+    Adds 8 pixels of padding to the top of the "Buy Now" text.
+    Sets the font size of the "Buy Now" text to 16 pixels.
+    Centers the "Buy Now" text horizontally within its container.
+
+
+
+    Allows long words to break into multiple lines if needed.
+    Sets the font size of the item head name to 30 pixels.
+    Sets the line height to 1.38 times the font size for improved readability.
+    Sets the text color of the item head name to a dark gray (#2e2e2e).
+    Centers the item head name text horizontally within its container.
+
+
+
+
+    Adds 24 pixels of top margin to the view all section.
+    Centers the content (including the "View All" button) within its container horizontally.
+
+
+
+
+
+    Sets the background color of the "View All" button to a shade of blue (#2874f0).
+    Sets the text color of the "View All" button to white (#fff).
+    Applies a box shadow effect to the button, creating a subtle shadow.
+    Removes the border around the button.
+    Sets the height of the button to 38 pixels.
+    Sets the width of the button to 96 pixels.
+    Configures the button to use flexbox layout.
+    Centers the content vertically within the button.
+    Centers the content horizontally within the button.
+
+
+
+    Sets the font size of the text within the "View All" button to 13 pixels.
+
+
+
+
+
+    Sets the width of the element to 100% of its container.
+    Removes any default border.
+    Adds a solid 8-pixel border on the top side of the element using a semi-transparent gray color.
+
+
+
+    Sets the maximum width of the footer section to 1719 pixels.
+    
+    Sets the height of the footer section to 300 pixels.
+    Sets the background color of the footer section to a dark blue (#172337).
+    Configures the footer section to use flexbox layout.
+
+
+
+    
+    Configures the footer left section to use flexbox layout.
+    Sets the width of the footer left section to 50% of its container.
+    Adds a left margin of 65 pixels to the footer left section.
+    Distributes the items inside the footer left section evenly along the main axis with equal spacing.
+
+
+
+    Sets the width of each footer info block to 252 pixels.
+    Sets the height of each footer info block to 194 pixels.
+    Adds top padding of 40 pixels to each footer info block.
+
+
+
+    Sets the text color of footer info headings to a light gray (#878787).
+    Sets the font size of footer info headings to 12 pixels.
+    Sets the font weight of footer info headings to normal (400).
+    Adds bottom margin of 9 pixels to footer info headings.
+
+
+    
+    Sets the text color of footer content to white (#ffffff).
+    Sets the font size of footer content to 12 pixels.
+
+    Sets the line height of footer content to 2 times the font size (24 pixels).
+
+
+
+    Configures the footer right section to use flexbox layout.
+    Sets the width of the footer right section to 50% of its container.
+    Adds a right margin of 30 pixels to the footer right section.
+    Distributes the items inside the footer right section evenly along the main axis with equal spacing.
+
+
+
+    Sets a top margin of 0.35 pixels for the footer extras section.
+    Sets the background color of the footer extras section to a dark blue (#172337).
+    Configures the footer extras section to use flexbox layout.
+    Aligns the items inside the footer extras section vertically centered.
+    Distributes the items inside the footer extras section evenly along the main axis with equal spacing.
+    Sets the maximum width of the footer extras section to 1719 pixels.
+    Sets the height of the footer extras section to 70 pixels.
+    Sets the text color of footer extras to white (#ffffff).
+    Sets the font size of footer extras to 14 pixels.
+    Sets the line height of footer extras to 2 times the font size (28 pixels).
+    Adds left padding of 25 pixels to the footer extras section.
+    Adds right padding of 10 pixels to the footer extras section.
+    

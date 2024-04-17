@@ -1,0 +1,405 @@
+Declares the document type as HTML5
+Defines the root element of the HTML document with the language set to English.
+
+Contains metadata and links to external resources for the document.
+    Specifies the character encoding as UTF-8.
+    Sets the viewport to the width of the device and initial zoom level.
+    Sets the title of the webpage to "Flipkart.com".
+
+
+    Preconnects and imports Google Fonts (Poppins and Roboto) for text styling.
+
+
+
+
+    Imports Font Awesome CSS for using icons.
+
+
+
+    Links an external CSS file (styles.css) for additional styling.
+Defines metadata and resources used by the webpage, including character encoding, viewport settings, title, and linked external files like stylesheets and fonts.
+
+The tag begins the main content of the HTML document where visible elements and structure are defined for user interaction on the webpage.
+
+ The tag represents the introductory or top section of a webpage, often containing branding, navigation links, and key information.
+
+
+   Defines a container for the navigation bar section of the webpage.
+
+    Represents a section within the navigation bar for the logo and text.
+     
+      Displays the Flipkart logo using an image tag with specified source, class for styling, and alternate text.
+
+
+
+      Displays a text with "Explore" followed by the word "Plus+" styled differently within a <span> tag, possibly for dynamic formatting or styling purposes.
+
+
+
+    Defines a container for the search box within the navigation bar.
+       Creates a text input field for users to search for products, displaying a placeholder text for guidance.
+
+       Defines a container for the search icon.
+        Displays a Font Awesome magnifying glass icon within the search logo container for search functionality.
+
+
+
+    Defines a container for the login section.
+        Displays a "Login" text within the login box for user authentication.
+
+
+    Defines a container for the "Become a Seller" section.
+        Displays a text "Become a Seller" within the box, likely linking to a seller registration or information page.
+
+
+    Defines a container for additional options or links.
+        Displays a text "More" within the box, indicating additional navigation or options.
+
+
+    Defines a container for the shopping cart section.
+        Displays a Font Awesome shopping cart icon within the cart box for accessing the user's shopping cart or checkout functionality.
+
+
+
+
+
+
+
+
+
+ Defines a container for elements positioned below the navigation bar.
+    
+    Represents a small card container for each menu item.
+        Displays an image (menu icon) with specified source and alternate text within the card.
+        Displays the text "Grocery" below the corresponding menu icon.
+
+
+
+    Creates a container styled as a small card for a menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon2.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Mobiles" (<p>) below the menu icon within the small card container.
+
+
+     Another container styled as a small card for a different menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon3.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Fashion" (<p>) below the menu icon within this small card container.
+
+
+    Defines a container styled as a small card for a menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon4.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Laptops" (<p>) below the menu icon within the small card container.
+
+
+    Another container styled as a small card for a different menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon5.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Home" (<p>) below the menu icon within this small card container.
+
+
+    Another container styled as a small card for a different menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon6.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Electronic" (<p>) below the menu icon within this small card container.
+
+
+    Defines a container styled as a small card for a menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon7.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays an image (<img>) with the source set to "images/menuIcon7.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+
+
+    Another container styled as a small card for a different menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon8.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Toys" (<p>) below the menu icon within this small card container.
+
+
+    Another container styled as a small card for a different menu item.
+        Displays an image (<img>) with the source set to "images/menuIcon9.webp" and an alternate text (alt) of "menuIcon1", styled with the class "card".
+        Displays the text "Bikes" (<p>) below the menu icon within this small card container.
+
+
+
+
+
+    Creates a horizontal line separator.
+
+
+    Defines a container for the main image or hero section.
+
+
+
+    Creates a horizontal line separator.
+
+
+    Defines a container for an item section, typically used for displaying a list of items.
+
+    Defines a container for an individual item within the item section.
+        Sub-container for the item's heading.
+        Displays the heading "Get Set for Sports" within the item.
+
+
+    Sub-container for the "View All" button.
+        Container for the button.
+        Displays the text "VIEW ALL" within the button.
+
+
+
+
+    Another container for an individual item within the item section.
+        Displays an image of a men's T-shirt with the source set to "images/cloth1.webp" and an alternate text (alt) of "cloth1".
+        Displays the description "Men's T-shirt" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+     Defines a container for an individual item within the item section.
+        Displays an image of a jacket with the source set to "images/cloth2.webp" and an alternate text (alt) of "cloth2".
+        Displays the description "Jackets" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+    Another container for an individual item within the item section.
+        Displays an image of a men's track suit with the source set to "images/cloth3.webp" and an alternate text (alt) of "cloth3".
+        Displays the description "Men's Trackshut" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+    Defines a container for an individual item within the item section.
+        Displays an image of jackets with the source set to "images/cloth4.webp" and an alternate text (alt) of "cloth4".
+        Displays the description "Jackets" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+
+
+Creates a horizontal line (divider) using a <div> element styled with the class "line".
+
+
+ Defines a container for a new section of items on the web page.
+
+    Defines a container for an individual item within the new item section.
+        Sub-container for the item's heading.
+        Displays the heading "Best of Electronics" within the item.
+
+
+    Defines a container for a section that includes a "View All" button.
+        Sub-container for the "View All" button
+        Displays the text "VIEW ALL" within the button.
+
+
+
+
+    Defines a container for an individual item within the item section.
+        Displays an image of a men's T-shirt with the source set to "images/electronic1.webp" and an alternate text (alt) of "electronic img".
+        Displays the description "Men's T-shirt" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+    Another container for an individual item within the item section.
+        Displays an image of jackets with the source set to "images/electronic2.webp" and an alternate text (alt) of "electronic img".
+        Displays the description "Jackets" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+    Defines a container for an individual item within the item section.
+        Displays an image of a product (likely electronic) with the source set to "images/electronic3.webp" and an alternate text (alt) of "electronic img".
+        Displays the description "Men's Trackshut" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+    Another container for an individual item within the item section.
+        Displays an image of a product (likely electronic) with the source set to "images/electronic4.webp" and an alternate text (alt) of "electronic img".
+        Displays the description "Jackets" for the item.
+        Displays the text "Buy Now" likely representing a button to purchase the item.
+
+
+Closes the preceding <div class="itemSection"> container.
+
+  Creates a horizontal line (divider) using a <div> element styled with the class "line".
+
+  Defines a container for a new section of items on the web page, likely related to fashion deals.
+
+  Defines a container for an individual item within the fashion deals section.
+    Sub-container for the item's heading.
+        Displays the heading "Fashion Top Deals" within the item.
+
+
+    Defines a container for the "View All" section.
+        Sub-container for the "View All" button.
+        Displays the text "VIEW ALL" within the button.
+
+
+
+
+    Defines a container for an individual fashion item.
+        Defines a container for an individual fashion item.
+        Describes the item as "Lahenga Choli & Gown".
+        Displays a "Buy Now" button for purchasing the item.
+
+
+        Defines another container for an individual fashion item.
+            Displays an image of Kurtas with alternative text "cloth2".
+            Describes the item as "Kurtas".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+       Defines a container for an individual fashion item.
+            Displays an image of "Liwas" with alternative text "cloth3".
+            Describes the item as "Liwas".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+        Defines another container for an individual fashion item.
+            Displays an image of "Kurta Set" with alternative text "cloth4".
+            Describes the item as "Kurta Set".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+
+
+  Creates a horizontal line (divider) using a <div> element styled with the class "line".
+
+  Defines a container for a new section of items on the web page, likely for another category of deals or products.
+
+        Defines a container for an individual item within the "Top Deals for Today" section.
+            Sub-container for the item's heading.
+            Displays the heading "Top Deals for Today" within the item.
+
+
+        Defines a section container for displaying a "View All" button.
+            Defines a container for styling the "View All" button.
+            Displays the text "VIEW ALL" inside the button.
+
+
+
+
+        Defines a container for an individual item within this section.
+            Displays an image of a musical instrument with alternative text "topDeal".
+            Describes the item as a "Musical Instrument".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+        Defines another container for an individual item within this section.
+            Displays an image of smart watches with alternative text "topDeal".
+            Describes the item as "Smart Watches".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+        Defines another container for an individual item within this section.
+            Displays an image of an umbrella with alternative text "topDeal".
+            Describes the item as "Umbrella".
+            Displays a "Buy Now" button for purchasing the item.
+
+
+        Defines a container for an individual item within the footer.
+            Displays an image of soft toys with alternative text "topDeal".
+            Describes the item as "Soft Toys".
+            Displays a "Buy Now" button for purchasing the soft toys.
+        Closes the container <div class="item"> that holds the footer item.
+    Closes the container <div class="item"> that holds the footer item.
+
+
+  Closes the footer section of the web page.
+
+        Defines a section within the footer.
+
+            Defines a left-aligned section within the footer.
+
+                Represents an informational block within the footer.
+                  Displays a heading "ABOUT".
+                  Displays a heading "ABOUT".
+                    Provides a link to contact information.
+                    Describes details about the company.
+                    Links to career opportunities.
+                    Directs to Flipkart's stories section
+                    Displays press-related information.
+                    Links to Flipkart's wholesale section.
+                    Provides corporate details.
+
+
+
+        block within the footer, this time focusing on help-related information.
+            Displays a heading "HELP".
+            Contains specific help-related details.
+                Describes payment-related information.
+                Provides details about shipping.
+                Describes the process for canceling orders and returns.
+                Links to frequently asked questions.
+                Provides a way to report infringement issues.
+
+
+
+        Defines an informational block within the footer.
+            Displays a heading "CONSUMER POLICY".
+            Contains consumer policy-related links.
+                Describes the cancellation and returns policy.
+                Provides a link to the terms of use.
+                Describes security-related information.
+                Provides details about privacy policies.
+                Links to the site's sitemap.
+                Provides a way to address grievances.
+                Describes compliance with Extended Producer Responsibility (EPR).
+
+
+
+
+        Represents a social media block within the footer.
+            Displays a heading "SOCIAL".
+            Contains links to social media platforms.
+                Links to the Facebook page.
+                Links to the Twitter account.
+                Links to the YouTube channel.
+
+
+
+
+
+
+        Defines a section on the right side of the footer.
+
+            Represents an information block.
+
+               Displays a heading "Mail Us:".
+               Contains contact information for mailing.
+               Company name.
+               Building details.
+               Location information.
+               Additional address details.
+                City and pin code.
+                State and country.
+
+
+
+        Represents another information block.
+            Displays a heading "Registered Office Address:".
+            Contains registered office address information.
+                Company name.
+                Building details.
+                Location information.
+                Additional address details.
+                City and pin code.
+                State and country.
+                Company identification number.
+                Contact telephone number.
+
+
+
+
+
+
+
+
+        Defines a container for additional footer elements.
+            Displays a span with an icon (suitcase) and text "Become a Seller" styled with a yellow color.
+            Displays a span with an icon (star) and text "Advertise" styled with a yellow color.
+            Displays a span with an icon (gift) and text "Gift Cards" styled with a yellow color.
+            Displays a span with an icon (question mark inside a circle) and text "Help Center" styled with a yellow color.
+            Displays copyright text "© 2007-2023 Flipkart.com".
+            Displays an image of payment methods with alternative text "payment-method".
+
+        Closes the <div> element with the class attribute set to "footerExtras", which encapsulates the additional footer content
+
+    Begins the <footer> element, which is a semantic tag used to define the footer section of the HTML document.
+
+
+Closes the <body> element, indicating the end of the document body content.
+
+Closes the <html> root element, marking the end of the HTML document structure.
+
+
